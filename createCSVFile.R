@@ -9,5 +9,5 @@ df <- data.frame(x,y)
   name <- paste0("file_", x)
   
   
-  setwd("~/createCSVfile/csv_files")
+  setwd("~/linuxtest/csv_files")
   write.csv(df, "test1.csv")
