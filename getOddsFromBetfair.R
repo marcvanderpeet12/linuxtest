@@ -3,6 +3,8 @@ getOddsFromBetfair <- function(club1, club2, country){
   #setwd("C:/Users/Marc/Dropbox/PROJECTEN/Lopend/clean_code_prediction/Updaten")
   #source("connectBetFair.R")
   
+  
+  
   #load in libraries
   require("RCurl")
   require("jsonlite")
