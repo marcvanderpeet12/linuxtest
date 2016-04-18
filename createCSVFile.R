@@ -10,4 +10,4 @@ df <- data.frame(x,y)
   
   
   setwd("~/linuxtest/csv_files")
-  write.csv(df, "test1.csv")
+  write.csv(df, name)
